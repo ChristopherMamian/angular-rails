@@ -1,0 +1,2 @@
+jamman = angular.module('jamman',[
+])
